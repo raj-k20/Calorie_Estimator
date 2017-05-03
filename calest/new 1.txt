@@ -1,0 +1,4 @@
+<?php 
+$res=shell_exec("cd");
+echo $res;
+?>

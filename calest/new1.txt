@@ -1,0 +1,127 @@
+Medium curly fries   397
+Classic italian toasted sub   787
+Turkey Bacon Club toasted  619
+Philly Beef sub   739
+Turkey Reuben   594
+Roasted Turkey and swiss   708
+Roasted turkey ranch, bacon  818
+Beef n cheddar   445
+Bacon Beef cheddar   521
+Chicken fillet crispy   510
+Chicken club    425
+Drink 150
+Plain	320
+Sesame	360
+Pumpernickel	330
+Whole Wheat Square	390
+Poppy Seed	320
+Cinnamon Raisin	330
+Bavarian kreme	250
+Blueberry cake	290
+Boston kreme	270
+Butternut	403	
+Chocolate Frosted	230
+Cinnamon Cake Donut	310
+Double chocolate cake Donut	340
+Glazed Donut	230
+Jelly	270
+Marble Frosted	240
+Manager special Frosting		
+Manager Special Pitts kneve
+Old Fashioned	280
+Sugar Raised 210
+chocolate chip classic muffins - 270
+calories from fat - 140
+KFC snacker Honey BBQ  210
+Honey BBQ sandwich  300
+whole wing crispy   160
+breast crispy  460
+thigh crispy   360
+chicken pot pie   690
+HBBQ wing   80
+sweat kernel corn   110
+Biscuit    180
+apple pie mini    130
+drink     180
+Chocolate Iced Kreme Filled Doughnut	350
+Glazed Chocolate Cake Doughnut	300
+Granola Bar	180
+Big Mac     540
+Big n Tasty     510
+Chicken Club
+Chicken Ranch Blt     580
+Chicken Selects     133
+Filet-o-Fish     380
+McNugget     47
+Medium Fries     380
+Quarter Pounder Cheese     740
+Southern Style Chicken     400
+Asian sesame chicken - 410
+Brocolli Cheddar - 230
+Caesar salad - 400
+Italian Combo - 1070
+Mediterranean Veggie - 610
+Chicken Noodle - 100
+Sierra turkey - 1000
+Smokey turkey breast - 620
+Asian sesame chicken  410
+Brocolli Cheddar  230
+Caesar salad  400
+Italian Combo  1070
+Mediterranean Veggie  610
+Chicken Noodle  100
+Sierra turkey  1000
+Smokey turkey breast  620
+bread stick   160
+buffalo wing (1 piece) 120
+pizza black olives   250
+pizza buffalo chicken tomato  310
+pizza cheese 270
+pizza green pepper onion meat 310
+pizza ham meat 370
+pizza mushroom 250
+pizza onion    250
+pizza pepperoni 280
+side salad with french dressing 270
+iced tea 160
+Brocoli Cheese     140
+Chopped Side Salad     15
+Honey Bourbon Chicken     480
+Prime Rib CheeseSteak     830
+Raspberry Chipotle Chicken Salad     620
+Roasted Green Chilli     140
+Roasted Turkey and Cheddar     510
+Sonoma Turkey     300
+Turkey Ranch and Swiss     510
+Veggie     590
+Chicken and Bacon Ranch     580
+Italian BMT     410
+Meatball     560
+Spicy Italian     480
+Steak and Cheese     600
+Subway Melt     380
+Tuna     530
+Turkey Breast     280
+Veggie Delite     230
+Bean burrito - 350
+chalupa supreme chicken - 350
+chalupa supreme steak - 350
+crunchy taco - 200
+fiesta burrito chicken - 350
+gordita supreme chicken - 280
+gordita supreme steak - 270
+grilled steak taco - 260
+half lb beef combo burrito - 440
+nachos - 330
+Spicy Chicken Fillet     230
+Medium fries     430
+Quarter Pound Single     430
+Half pound double     700
+Baconator     830
+Ultimate Chicken Grill     320
+Chicken Club     540
+Chicken Nuggets     190
+Chicken BLT     470
+South west Taco     400
+Mandarian Chicken     180
+chilli sauce     280
